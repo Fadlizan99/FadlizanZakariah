@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600;700&family=Caveat&family=Libre+Baskerville&display=swap');
+
+*{
+    font-family: 'Bai Jamjuree', sans-serif;
+    background-color: #DBE2EF;
+    font-weight: 700;
+}
+.box{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+}
+
+
+.name{ 
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+.space{
+    letter-spacing: 10px;
+}
+ .photo{
+    display: flex;
+    justify-content: center;
+    height: 180px;
+    width: 100%;
+    margin-bottom: 100px;
+ }
+
+ img{
+    border: 8px solid #152f49;
+ }
+
+ .medsos{
+    color: black;
+ }
